@@ -35,6 +35,8 @@ namespace API
                     await context.Response.WriteAsync("Hello World!");
                 });
             });
+
+            //Todo: Swagger needs to configure
         }
     }
 }
