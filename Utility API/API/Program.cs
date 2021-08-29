@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace API
 {
+    /// <summary>
+    ///  Starting point of the code. <see cref="Startup.cs"/>
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
